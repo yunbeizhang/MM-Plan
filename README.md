@@ -4,11 +4,8 @@
 [![Project Page](https://img.shields.io/badge/Project%20Page-GitHub%20Pages-brightgreen)](https://yunbeizhang.github.io/MM-Plan/)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/zybeich/VE-Safety)
 
-**Yunbei Zhang<sup>1*</sup>, Yingqiang Ge<sup>2</sup>, Weijie Xu<sup>2</sup>, Yuhui Xu<sup>2</sup>, Jihun Hamm<sup>1</sup>, Chandan K. Reddy<sup>2</sup>**
+**Yunbei Zhang, Yingqiang Ge, Weijie Xu, Yuhui Xu, Jihun Hamm, Chandan K. Reddy**
 
-<sup>1</sup>Tulane University &nbsp;&nbsp; <sup>2</sup>Amazon
-
-<sup>*</sup>Work done during an internship at Amazon
 
 > **Note:** The code and dataset will be released soon once the arXiv submission hold is resolved. Stay tuned!
 
