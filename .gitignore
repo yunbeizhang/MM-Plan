@@ -1,6 +1,9 @@
 # Development / reference codebase
 mmplan_anony-main/
 
+# HuggingFace dataset repo
+VE-Safety/
+
 # Paper PDF
 _ICML26__MM_Plan.pdf
 *.pdf

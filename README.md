@@ -1,7 +1,7 @@
 # Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning
 
 <p align="center">
-  <a href="https://agentwild-workshop.github.io/"><b>ICLR 2026 Workshop — Agents in the Wild (AIWILD) (Oral)</b></a>
+  <a href="https://agentwild-workshop.github.io/"><b>ICLR 2026 Workshop AIWILD (Oral)</b></a>
 </p>
 
 <p align="center">
