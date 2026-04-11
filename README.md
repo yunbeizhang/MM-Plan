@@ -18,7 +18,7 @@
 
 ## News
 
-- **Apr 10, 2026** — Code released.
+- **Apr 10, 2026** — Code and [VE-Safety dataset](https://huggingface.co/datasets/zybeich/VE-Safety) released.
 - **Apr 06, 2026** — Selected as **Oral Presentation** at ICLR 2026 AIWILD Workshop.
 - **Mar 24, 2026** — Selected as **Spotlight** at ICLR 2026 AIWILD Workshop.
 - **Mar 01, 2026** — Accepted to ICLR 2026 Workshop [Agents in the Wild (AIWILD): Safety, Security, and Beyond](https://agentwild-workshop.github.io/).
@@ -26,7 +26,7 @@
 
 ## TODO
 
-- [ ] Release VE-Safety dataset on HuggingFace (under DUA)
+- [x] Release VE-Safety dataset on [HuggingFace](https://huggingface.co/datasets/zybeich/VE-Safety) (under DUA)
 - [x] Release code
 
 ## Abstract
@@ -61,9 +61,17 @@ bash verl/scripts/install_mm_plan.sh
 
 ## Data Preparation
 
-The **VE-Safety** benchmark will be released on [HuggingFace](https://huggingface.co/datasets/zybeich/VE-Safety) under a Data Use Agreement (DUA). Please follow the instructions on the dataset page to request access.
+The **VE-Safety** benchmark is available on [HuggingFace](https://huggingface.co/datasets/zybeich/VE-Safety) under a Data Use Agreement (DUA). Please follow the instructions on the dataset page to request access.
 
-After downloading, place the parquet files under `data/VE-Safety/` and update the `data_path` in the training scripts accordingly.
+After approval, download and place the parquet files under `data/VE-Safety/`:
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("zybeich/VE-Safety")
+```
+
+Update the `data_path` in the training scripts accordingly.
 
 ## Quick Start
 
