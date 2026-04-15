@@ -1,12 +1,12 @@
 # Visual Exclusivity Attacks: Automatic Multimodal Red Teaming via Agentic Planning
 
 <p align="center">
-  <a href="https://agentwild-workshop.github.io/"><b>ICLR 2026 Workshop AIWILD (Oral)</b></a>
+  <a href="https://agentwild-workshop.github.io/"><b>🏆 Best Short Paper Award — ICLR 2026 Workshop AIWILD</b></a>
 </p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2603.20198"><img src="https://img.shields.io/badge/arXiv-2603.20198-b31b1b?style=flat-square" alt="arXiv"></a>
-  <a href="https://agentwild-workshop.github.io/"><img src="https://img.shields.io/badge/ICLR%202026%20Workshop-Oral-blue?style=flat-square" alt="ICLR 2026 Workshop Oral"></a>
+  <a href="https://agentwild-workshop.github.io/"><img src="https://img.shields.io/badge/ICLR%202026%20AIWILD-Best%20Short%20Paper-gold?style=flat-square" alt="ICLR 2026 AIWILD Best Short Paper"></a>
   <a href="https://yunbeizhang.github.io/MM-Plan/"><img src="https://img.shields.io/badge/Project%20Page-GitHub%20Pages-brightgreen?style=flat-square" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/zybeich/VE-Safety"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow?style=flat-square" alt="Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square" alt="License"></a>
@@ -18,6 +18,7 @@
 
 ## News
 
+- **Apr 15, 2026** — 🏆 Received the **Best Short Paper Award** at ICLR 2026 AIWILD Workshop!
 - **Apr 10, 2026** — Code and [VE-Safety dataset](https://huggingface.co/datasets/zybeich/VE-Safety) released.
 - **Apr 06, 2026** — Selected as **Oral Presentation** at ICLR 2026 AIWILD Workshop.
 - **Mar 24, 2026** — Selected as **Spotlight** at ICLR 2026 AIWILD Workshop.
